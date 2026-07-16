@@ -392,6 +392,8 @@ section { padding: 5.5rem 0; }
   font-size: 1.6rem;
   color: var(--teal-deep);
 }
+.team-card .avatar.has-photo { padding: 0; overflow: hidden; }
+.team-card .avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
 .team-card h3 { margin-bottom: 0.15em; font-size: 1.15rem; }
 .team-card .role { font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal-deep); }
 
