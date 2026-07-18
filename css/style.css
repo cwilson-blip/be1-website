@@ -289,7 +289,7 @@ p.lede { font-size: 1.15rem; color: var(--ink); }
 .hero {
   position: relative;
   background:
-    linear-gradient(180deg, rgba(247, 250, 251, 0.86) 0%, rgba(255, 255, 255, 0.92) 78%),
+    linear-gradient(180deg, rgba(247, 250, 251, 0.69) 0%, rgba(255, 255, 255, 0.74) 78%),
     url('../assets/images/hero-bg.jpg');
   background-size: cover;
   background-position: center;
