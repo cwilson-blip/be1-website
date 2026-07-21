@@ -176,6 +176,8 @@ p.lede { font-size: 1.15rem; color: var(--ink); }
   display: flex;
   align-items: center;
   gap: 1.5rem;
+  flex: 1;
+  justify-content: space-between;
 }
 .nav a:not(.btn) {
   font-size: 0.78rem;
